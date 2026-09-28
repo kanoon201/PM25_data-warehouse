@@ -1,0 +1,931 @@
+﻿province_code,province_name_th,province_name_en,district_code,district_name_th,district_name_en
+10,กรุงเทพมหานคร,Bangkok,01,เขตพระนคร,Khet Phra Nakhon
+10,กรุงเทพมหานคร,Bangkok,02,เขตดุสิต,Khet Dusit
+10,กรุงเทพมหานคร,Bangkok,03,เขตหนองจอก,Khet Nong Chok
+10,กรุงเทพมหานคร,Bangkok,04,เขตบางรัก,Khet Bang Rak
+10,กรุงเทพมหานคร,Bangkok,05,เขตบางเขน,Khet Bang Khen
+10,กรุงเทพมหานคร,Bangkok,06,เขตบางกะปิ,Khet Bang Kapi
+10,กรุงเทพมหานคร,Bangkok,07,เขตปทุมวัน,Khet Pathum Wan
+10,กรุงเทพมหานคร,Bangkok,08,เขตป้อมปราบศัตรูพ่าย,Khet Pom Prap Sattru Phai
+10,กรุงเทพมหานคร,Bangkok,09,เขตพระโขนง,Khet Phra Khanong
+10,กรุงเทพมหานคร,Bangkok,10,เขตมีนบุรี,Khet Min Buri
+10,กรุงเทพมหานคร,Bangkok,11,เขตลาดกระบัง,Khet Lat Krabang
+10,กรุงเทพมหานคร,Bangkok,12,เขตยานนาวา,Khet Yan Nawa
+10,กรุงเทพมหานคร,Bangkok,13,เขตสัมพันธวงศ์,Khet Samphanthawong
+10,กรุงเทพมหานคร,Bangkok,14,เขตพญาไท,Khet Phaya Thai
+10,กรุงเทพมหานคร,Bangkok,15,เขตธนบุรี,Khet Thon Buri
+10,กรุงเทพมหานคร,Bangkok,16,เขตบางกอกใหญ่,Khet Bangkok Yai
+10,กรุงเทพมหานคร,Bangkok,17,เขตห้วยขวาง,Khet Huai Khwang
+10,กรุงเทพมหานคร,Bangkok,18,เขตคลองสาน,Khet Khlong San
+10,กรุงเทพมหานคร,Bangkok,19,เขตตลิ่งชัน,Khet Taling Chan
+10,กรุงเทพมหานคร,Bangkok,20,เขตบางกอกน้อย,Khet Bangkok Noi
+10,กรุงเทพมหานคร,Bangkok,21,เขตบางขุนเทียน,Khet Bang Khun Thian
+10,กรุงเทพมหานคร,Bangkok,22,เขตภาษีเจริญ,Khet Phasi Charoen
+10,กรุงเทพมหานคร,Bangkok,23,เขตหนองแขม,Khet Nong Khaem
+10,กรุงเทพมหานคร,Bangkok,24,เขตราษฎร์บูรณะ,Khet Rat Burana
+10,กรุงเทพมหานคร,Bangkok,25,เขตบางพลัด,Khet Bang Phlat
+10,กรุงเทพมหานคร,Bangkok,26,เขตดินแดง,Khet Din Daeng
+10,กรุงเทพมหานคร,Bangkok,27,เขตบึงกุ่ม,Khet Bueng Kum
+10,กรุงเทพมหานคร,Bangkok,28,เขตสาทร,Khet Sathon
+10,กรุงเทพมหานคร,Bangkok,29,เขตบางซื่อ,Khet Bang Sue
+10,กรุงเทพมหานคร,Bangkok,30,เขตจตุจักร,Khet Chatuchak
+10,กรุงเทพมหานคร,Bangkok,31,เขตบางคอแหลม,Khet Bang Kho Laem
+10,กรุงเทพมหานคร,Bangkok,32,เขตประเวศ,Khet Prawet
+10,กรุงเทพมหานคร,Bangkok,33,เขตคลองเตย,Khet Khlong Toei
+10,กรุงเทพมหานคร,Bangkok,34,เขตสวนหลวง,Khet Suan Luang
+10,กรุงเทพมหานคร,Bangkok,35,เขตจอมทอง,Khet Chom Thong
+10,กรุงเทพมหานคร,Bangkok,36,เขตดอนเมือง,Khet Don Mueang
+10,กรุงเทพมหานคร,Bangkok,37,เขตราชเทวี,Khet Ratchathewi
+10,กรุงเทพมหานคร,Bangkok,38,เขตลาดพร้าว,Khet Lat Phrao
+10,กรุงเทพมหานคร,Bangkok,39,เขตวัฒนา,Khet Watthana
+10,กรุงเทพมหานคร,Bangkok,40,เขตบางแค,Khet Bang Khae
+10,กรุงเทพมหานคร,Bangkok,41,เขตหลักสี่,Khet Lak Si
+10,กรุงเทพมหานคร,Bangkok,42,เขตสายไหม,Khet Sai Mai
+10,กรุงเทพมหานคร,Bangkok,43,เขตคันนายาว,Khet Khan Na Yao
+10,กรุงเทพมหานคร,Bangkok,44,เขตสะพานสูง,Khet Saphan Sung
+10,กรุงเทพมหานคร,Bangkok,45,เขตวังทองหลาง,Khet Wang Thonglang
+10,กรุงเทพมหานคร,Bangkok,46,เขตคลองสามวา,Khet Khlong Sam Wa
+10,กรุงเทพมหานคร,Bangkok,47,เขตบางนา,Khet Bang Na
+10,กรุงเทพมหานคร,Bangkok,48,เขตทวีวัฒนา,Khet Thawi Watthana
+10,กรุงเทพมหานคร,Bangkok,49,เขตทุ่งครุ,Khet Thung Khru
+10,กรุงเทพมหานคร,Bangkok,50,เขตบางบอน,Khet Bang Bon
+11,สมุทรปราการ,Samut Prakan,01,เมืองสมุทรปราการ,Mueang Samut Prakan
+11,สมุทรปราการ,Samut Prakan,02,บางบ่อ,Bang Bo
+11,สมุทรปราการ,Samut Prakan,03,บางพลี,Bang Phli
+11,สมุทรปราการ,Samut Prakan,04,พระประแดง,Phra Pradaeng
+11,สมุทรปราการ,Samut Prakan,05,พระสมุทรเจดีย์,Phra Samut Chedi
+11,สมุทรปราการ,Samut Prakan,06,บางเสาธง,Bang Sao Thong
+12,นนทบุรี,Nonthaburi,01,เมืองนนทบุรี,Mueang Nonthaburi
+12,นนทบุรี,Nonthaburi,02,บางกรวย,Bang Kruai
+12,นนทบุรี,Nonthaburi,03,บางใหญ่,Bang Yai
+12,นนทบุรี,Nonthaburi,04,บางบัวทอง,Bang Bua Thong
+12,นนทบุรี,Nonthaburi,05,ไทรน้อย,Sai Noi
+12,นนทบุรี,Nonthaburi,06,ปากเกร็ด,Pak Kret
+13,ปทุมธานี,Pathum Thani,01,เมืองปทุมธานี,Mueang Pathum Thani
+13,ปทุมธานี,Pathum Thani,02,คลองหลวง,Khlong Luang
+13,ปทุมธานี,Pathum Thani,03,ธัญบุรี,Thanyaburi
+13,ปทุมธานี,Pathum Thani,04,หนองเสือ,Nong Suea
+13,ปทุมธานี,Pathum Thani,05,ลาดหลุมแก้ว,Lat Lum Kaeo
+13,ปทุมธานี,Pathum Thani,06,ลำลูกกา,Lam Luk Ka
+13,ปทุมธานี,Pathum Thani,07,สามโคก,Sam Khok
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,01,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,02,ท่าเรือ,Tha Ruea
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,03,นครหลวง,Nakhon Luang
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,04,บางไทร,Bang Sai
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,05,บางบาล,Bang Ban
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,06,บางปะอิน,Bang Pa-in
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,07,บางปะหัน,Bang Pahan
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,08,ผักไห่,Phak Hai
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,09,ภาชี,Phachi
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,10,ลาดบัวหลวง,Lat Bua Luang
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,11,วังน้อย,Wang Noi
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,12,เสนา,Sena
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,13,บางซ้าย,Bang Sai
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,14,อุทัย,Uthai
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,15,มหาราช,Maha Rat
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,16,บ้านแพรก,Ban Phraek
+15,อ่างทอง,Ang Thong,01,เมืองอ่างทอง,Mueang Ang Thong
+15,อ่างทอง,Ang Thong,02,ไชโย,Chaiyo
+15,อ่างทอง,Ang Thong,03,ป่าโมก,Pa Mok
+15,อ่างทอง,Ang Thong,04,โพธิ์ทอง,Pho Thong
+15,อ่างทอง,Ang Thong,05,แสวงหา,Sawaeng Ha
+15,อ่างทอง,Ang Thong,06,วิเศษชัยชาญ,Wiset Chai Chan
+15,อ่างทอง,Ang Thong,07,สามโก้,Samko
+16,ลพบุรี,Lopburi,01,เมืองลพบุรี,Mueang Lop Buri
+16,ลพบุรี,Lopburi,02,พัฒนานิคม,Phatthana Nikhom
+16,ลพบุรี,Lopburi,03,โคกสำโรง,Khok Samrong
+16,ลพบุรี,Lopburi,04,ชัยบาดาล,Chai Badan
+16,ลพบุรี,Lopburi,05,ท่าวุ้ง,Tha Wung
+16,ลพบุรี,Lopburi,06,บ้านหมี่,Ban Mi
+16,ลพบุรี,Lopburi,07,ท่าหลวง,Tha Luang
+16,ลพบุรี,Lopburi,08,สระโบสถ์,Sa Bot
+16,ลพบุรี,Lopburi,09,โคกเจริญ,Khok Charoen
+16,ลพบุรี,Lopburi,10,ลำสนธิ,Lam Sonthi
+16,ลพบุรี,Lopburi,11,หนองม่วง,Nong Muang
+17,สิงห์บุรี,Sing Buri,01,เมืองสิงห์บุรี,Mueang Sing Buri
+17,สิงห์บุรี,Sing Buri,02,บางระจัน,Bang Rachan
+17,สิงห์บุรี,Sing Buri,03,ค่ายบางระจัน,Khai Bang Rachan
+17,สิงห์บุรี,Sing Buri,04,พรหมบุรี,Phrom Buri
+17,สิงห์บุรี,Sing Buri,05,ท่าช้าง,Tha Chang
+17,สิงห์บุรี,Sing Buri,06,อินทร์บุรี,In Buri
+18,ชัยนาท,Chai Nat,01,เมืองชัยนาท,Mueang Chai Nat
+18,ชัยนาท,Chai Nat,02,มโนรมย์,Manorom
+18,ชัยนาท,Chai Nat,03,วัดสิงห์,Wat Sing
+18,ชัยนาท,Chai Nat,04,สรรพยา,Sapphaya
+18,ชัยนาท,Chai Nat,05,สรรคบุรี,Sankhaburi
+18,ชัยนาท,Chai Nat,06,หันคา,Hankha
+18,ชัยนาท,Chai Nat,07,หนองมะโมง,Nong Mamong
+18,ชัยนาท,Chai Nat,08,เนินขาม,Noen Kham
+19,สระบุรี,Saraburi,01,เมืองสระบุรี,Mueang Saraburi
+19,สระบุรี,Saraburi,02,แก่งคอย,Kaeng Khoi
+19,สระบุรี,Saraburi,03,หนองแค,Nong Khae
+19,สระบุรี,Saraburi,04,วิหารแดง,Wihan Daeng
+19,สระบุรี,Saraburi,05,หนองแซง,Nong Saeng
+19,สระบุรี,Saraburi,06,บ้านหมอ,Ban Mo
+19,สระบุรี,Saraburi,07,ดอนพุด,Don Phut
+19,สระบุรี,Saraburi,08,หนองโดน,Nong Don
+19,สระบุรี,Saraburi,09,พระพุทธบาท,Phra Phutthabat
+19,สระบุรี,Saraburi,10,เสาไห้,Sao Hai
+19,สระบุรี,Saraburi,11,มวกเหล็ก,Muak Lek
+19,สระบุรี,Saraburi,12,วังม่วง,Wang Muang
+19,สระบุรี,Saraburi,13,เฉลิมพระเกียรติ,Chaloem Phra Kiat
+20,ชลบุรี,Chon Buri,01,เมืองชลบุรี,Mueang Chon Buri
+20,ชลบุรี,Chon Buri,02,บ้านบึง,Ban Bueng
+20,ชลบุรี,Chon Buri,03,หนองใหญ่,Nong Yai
+20,ชลบุรี,Chon Buri,04,บางละมุง,Bang Lamung
+20,ชลบุรี,Chon Buri,05,พานทอง,Phan Thong
+20,ชลบุรี,Chon Buri,06,พนัสนิคม,Phanat Nikhom
+20,ชลบุรี,Chon Buri,07,ศรีราชา,Si Racha
+20,ชลบุรี,Chon Buri,08,เกาะสีชัง,Ko Sichang
+20,ชลบุรี,Chon Buri,09,สัตหีบ,Sattahip
+20,ชลบุรี,Chon Buri,10,บ่อทอง,Bo Thong
+20,ชลบุรี,Chon Buri,11,เกาะจันทร์,Ko Chan
+21,ระยอง,Rayong,01,เมืองระยอง,Mueang Rayong
+21,ระยอง,Rayong,02,บ้านฉาง,Ban Chang
+21,ระยอง,Rayong,03,แกลง,Klaeng
+21,ระยอง,Rayong,04,วังจันทร์,Wang Chan
+21,ระยอง,Rayong,05,บ้านค่าย,Ban Khai
+21,ระยอง,Rayong,06,ปลวกแดง,Pluak Daeng
+21,ระยอง,Rayong,07,เขาชะเมา,Khao Chamao
+21,ระยอง,Rayong,08,นิคมพัฒนา,Nikhom Phatthana
+22,จันทบุรี,Chanthaburi,01,เมืองจันทบุรี,Mueang Chanthaburi
+22,จันทบุรี,Chanthaburi,02,ขลุง,Khlung
+22,จันทบุรี,Chanthaburi,03,ท่าใหม่,Tha Mai
+22,จันทบุรี,Chanthaburi,04,โป่งน้ำร้อน,Pong Nam Ron
+22,จันทบุรี,Chanthaburi,05,มะขาม,Makham
+22,จันทบุรี,Chanthaburi,06,แหลมสิงห์,Laem Sing
+22,จันทบุรี,Chanthaburi,07,สอยดาว,Soi Dao
+22,จันทบุรี,Chanthaburi,08,แก่งหางแมว,Kaeng Hang Maeo
+22,จันทบุรี,Chanthaburi,09,นายายอาม,Na Yai Am
+22,จันทบุรี,Chanthaburi,10,เขาคิชฌกูฏ,Khao Khitchakut
+23,ตราด,Trat,01,เมืองตราด,Mueang Trat
+23,ตราด,Trat,02,คลองใหญ่,Khlong Yai
+23,ตราด,Trat,03,เขาสมิง,Khao Saming
+23,ตราด,Trat,04,บ่อไร่,Bo Rai
+23,ตราด,Trat,05,แหลมงอบ,Laem Ngop
+23,ตราด,Trat,06,เกาะกูด,Ko Kut
+23,ตราด,Trat,07,เกาะช้าง,Ko Chang
+24,ฉะเชิงเทรา,Chachoengsao,01,เมืองฉะเชิงเทรา,Mueang Chachoengsao
+24,ฉะเชิงเทรา,Chachoengsao,02,บางคล้า,Bang Khla
+24,ฉะเชิงเทรา,Chachoengsao,03,บางน้ำเปรี้ยว,Bang Nam Priao
+24,ฉะเชิงเทรา,Chachoengsao,04,บางปะกง,Bang Pakong
+24,ฉะเชิงเทรา,Chachoengsao,05,บ้านโพธิ์,Ban Pho
+24,ฉะเชิงเทรา,Chachoengsao,06,พนมสารคาม,Phanom Sarakham
+24,ฉะเชิงเทรา,Chachoengsao,07,ราชสาส์น,Ratchasan
+24,ฉะเชิงเทรา,Chachoengsao,08,สนามชัยเขต,Sanam Chai Khet
+24,ฉะเชิงเทรา,Chachoengsao,09,แปลงยาว,Plaeng Yao
+24,ฉะเชิงเทรา,Chachoengsao,10,ท่าตะเกียบ,Tha Takiap
+24,ฉะเชิงเทรา,Chachoengsao,11,คลองเขื่อน,Khlong Khuean
+25,ปราจีนบุรี,Prachin Buri,01,เมืองปราจีนบุรี,Mueang Prachin Buri
+25,ปราจีนบุรี,Prachin Buri,02,กบินทร์บุรี,Kabin Buri
+25,ปราจีนบุรี,Prachin Buri,03,นาดี,Na Di
+25,ปราจีนบุรี,Prachin Buri,06,บ้านสร้าง,Ban Sang
+25,ปราจีนบุรี,Prachin Buri,07,ประจันตคาม,Prachantakham
+25,ปราจีนบุรี,Prachin Buri,08,ศรีมหาโพธิ,Si Maha Phot
+25,ปราจีนบุรี,Prachin Buri,09,ศรีมโหสถ,Si Mahosot
+26,นครนายก,Nakhon Nayok,01,เมืองนครนายก,Mueang Nakhon Nayok
+26,นครนายก,Nakhon Nayok,02,ปากพลี,Pak Phli
+26,นครนายก,Nakhon Nayok,03,บ้านนา,Ban Na
+26,นครนายก,Nakhon Nayok,04,องครักษ์,Ongkharak
+27,สระแก้ว,Sa Kaeo,01,เมืองสระแก้ว,Mueang Sa Kaeo
+27,สระแก้ว,Sa Kaeo,02,คลองหาด,Khlong Hat
+27,สระแก้ว,Sa Kaeo,03,ตาพระยา,Ta Phraya
+27,สระแก้ว,Sa Kaeo,04,วังน้ำเย็น,Wang Nam Yen
+27,สระแก้ว,Sa Kaeo,05,วัฒนานคร,Watthana Nakhon
+27,สระแก้ว,Sa Kaeo,06,อรัญประเทศ,Aranyaprathet
+27,สระแก้ว,Sa Kaeo,07,เขาฉกรรจ์,Khao Chakan
+27,สระแก้ว,Sa Kaeo,08,โคกสูง,Khok Sung
+27,สระแก้ว,Sa Kaeo,09,วังสมบูรณ์,Wang Sombun
+30,นครราชสีมา,Nakhon Ratchasima,01,เมืองนครราชสีมา,Mueang Nakhon Ratchasima
+30,นครราชสีมา,Nakhon Ratchasima,02,ครบุรี,Khon Buri
+30,นครราชสีมา,Nakhon Ratchasima,03,เสิงสาง,Soeng Sang
+30,นครราชสีมา,Nakhon Ratchasima,04,คง,Khong
+30,นครราชสีมา,Nakhon Ratchasima,05,บ้านเหลื่อม,Ban Lueam
+30,นครราชสีมา,Nakhon Ratchasima,06,จักราช,Chakkarat
+30,นครราชสีมา,Nakhon Ratchasima,07,โชคชัย,Chok Chai
+30,นครราชสีมา,Nakhon Ratchasima,08,ด่านขุนทด,Dan Khun Thot
+30,นครราชสีมา,Nakhon Ratchasima,09,โนนไทย,Non Thai
+30,นครราชสีมา,Nakhon Ratchasima,10,โนนสูง,Non Sung
+30,นครราชสีมา,Nakhon Ratchasima,11,ขามสะแกแสง,Kham Sakaesaeng
+30,นครราชสีมา,Nakhon Ratchasima,12,บัวใหญ่,Bua Yai
+30,นครราชสีมา,Nakhon Ratchasima,13,ประทาย,Prathai
+30,นครราชสีมา,Nakhon Ratchasima,14,ปักธงชัย,Pak Thong Chai
+30,นครราชสีมา,Nakhon Ratchasima,15,พิมาย,Phimai
+30,นครราชสีมา,Nakhon Ratchasima,16,ห้วยแถลง,Huai Thalaeng
+30,นครราชสีมา,Nakhon Ratchasima,17,ชุมพวง,Chum Phuang
+30,นครราชสีมา,Nakhon Ratchasima,18,สูงเนิน,Sung Noen
+30,นครราชสีมา,Nakhon Ratchasima,19,ขามทะเลสอ,Kham Thale So
+30,นครราชสีมา,Nakhon Ratchasima,20,สีคิ้ว,Sikhio
+30,นครราชสีมา,Nakhon Ratchasima,21,ปากช่อง,Pak Chong
+30,นครราชสีมา,Nakhon Ratchasima,22,หนองบุญมาก,Nong Bun Mak
+30,นครราชสีมา,Nakhon Ratchasima,23,แก้งสนามนาง,Kaeng Sanam Nang
+30,นครราชสีมา,Nakhon Ratchasima,24,โนนแดง,Non Daeng
+30,นครราชสีมา,Nakhon Ratchasima,25,วังน้ำเขียว,Wang Nam Khiao
+30,นครราชสีมา,Nakhon Ratchasima,26,เทพารักษ์,Thepharak
+30,นครราชสีมา,Nakhon Ratchasima,27,เมืองยาง,Mueang Yang
+30,นครราชสีมา,Nakhon Ratchasima,28,พระทองคำ,Phra Thong Kham
+30,นครราชสีมา,Nakhon Ratchasima,29,ลำทะเมนชัย,Lam Thamenchai
+30,นครราชสีมา,Nakhon Ratchasima,30,บัวลาย,Bua Lai
+30,นครราชสีมา,Nakhon Ratchasima,31,สีดา,Sida
+30,นครราชสีมา,Nakhon Ratchasima,32,เฉลิมพระเกียรติ,Chaloem Phra Kiat
+31,บุรีรัมย์,Buri Ram,01,เมืองบุรีรัมย์,Mueang Buri Ram
+31,บุรีรัมย์,Buri Ram,02,คูเมือง,Khu Mueang
+31,บุรีรัมย์,Buri Ram,03,กระสัง,Krasang
+31,บุรีรัมย์,Buri Ram,04,นางรอง,Nang Rong
+31,บุรีรัมย์,Buri Ram,05,หนองกี่,Nong Ki
+31,บุรีรัมย์,Buri Ram,06,ละหานทราย,Lahan Sai
+31,บุรีรัมย์,Buri Ram,07,ประโคนชัย,Prakhon Chai
+31,บุรีรัมย์,Buri Ram,08,บ้านกรวด,Ban Kruat
+31,บุรีรัมย์,Buri Ram,09,พุทไธสง,Phutthaisong
+31,บุรีรัมย์,Buri Ram,10,ลำปลายมาศ,Lam Plai Mat
+31,บุรีรัมย์,Buri Ram,11,สตึก,Satuek
+31,บุรีรัมย์,Buri Ram,12,ปะคำ,Pakham
+31,บุรีรัมย์,Buri Ram,13,นาโพธิ์,Na Pho
+31,บุรีรัมย์,Buri Ram,14,หนองหงส์,Nong Hong
+31,บุรีรัมย์,Buri Ram,15,พลับพลาชัย,Phlapphla Chai
+31,บุรีรัมย์,Buri Ram,16,ห้วยราช,Huai Rat
+31,บุรีรัมย์,Buri Ram,17,โนนสุวรรณ,Non Suwan
+31,บุรีรัมย์,Buri Ram,18,ชำนิ,Chamni
+31,บุรีรัมย์,Buri Ram,19,บ้านใหม่ไชยพจน์,Ban Mai Chaiyaphot
+31,บุรีรัมย์,Buri Ram,20,โนนดินแดง,Non Din Daeng
+31,บุรีรัมย์,Buri Ram,21,บ้านด่าน,Ban Dan
+31,บุรีรัมย์,Buri Ram,22,แคนดง,Khaen Dong
+31,บุรีรัมย์,Buri Ram,23,เฉลิมพระเกียรติ,Chaloem Phra Kiat
+32,สุรินทร์,Surin,01,เมืองสุรินทร์,Mueang Surin
+32,สุรินทร์,Surin,02,ชุมพลบุรี,Chumphon Buri
+32,สุรินทร์,Surin,03,ท่าตูม,Tha Tum
+32,สุรินทร์,Surin,04,จอมพระ,Chom Phra
+32,สุรินทร์,Surin,05,ปราสาท,Prasat
+32,สุรินทร์,Surin,06,กาบเชิง,Kap Choeng
+32,สุรินทร์,Surin,07,รัตนบุรี,Rattanaburi
+32,สุรินทร์,Surin,08,สนม,Sanom
+32,สุรินทร์,Surin,09,ศีขรภูมิ,Sikhoraphum
+32,สุรินทร์,Surin,10,สังขะ,Sangkha
+32,สุรินทร์,Surin,11,ลำดวน,Lamduan
+32,สุรินทร์,Surin,12,สำโรงทาบ,Samrong Thap
+32,สุรินทร์,Surin,13,บัวเชด,Buachet
+32,สุรินทร์,Surin,14,พนมดงรัก,Phanom Dong Rak
+32,สุรินทร์,Surin,15,ศรีณรงค์,Si Narong
+32,สุรินทร์,Surin,16,เขวาสินรินทร์,Khwao Sinarin
+32,สุรินทร์,Surin,17,โนนนารายณ์,Non Narai
+33,ศรีสะเกษ,Si Sa Ket,01,เมืองศรีสะเกษ,Mueang Si Sa Ket
+33,ศรีสะเกษ,Si Sa Ket,02,ยางชุมน้อย,Yang Chum Noi
+33,ศรีสะเกษ,Si Sa Ket,03,กันทรารมย์,Kanthararom
+33,ศรีสะเกษ,Si Sa Ket,04,กันทรลักษ์,Kantharalak
+33,ศรีสะเกษ,Si Sa Ket,05,ขุขันธ์,Khukhan
+33,ศรีสะเกษ,Si Sa Ket,06,ไพรบึง,Phrai Bueng
+33,ศรีสะเกษ,Si Sa Ket,07,ปรางค์กู่,Prang Ku
+33,ศรีสะเกษ,Si Sa Ket,08,ขุนหาญ,Khun Han
+33,ศรีสะเกษ,Si Sa Ket,09,ราษีไศล,Rasi Salai
+33,ศรีสะเกษ,Si Sa Ket,10,อุทุมพรพิสัย,Uthumphon Phisai
+33,ศรีสะเกษ,Si Sa Ket,11,บึงบูรพ์,Bueng Bun
+33,ศรีสะเกษ,Si Sa Ket,12,ห้วยทับทัน,Huai Thap Than
+33,ศรีสะเกษ,Si Sa Ket,13,โนนคูณ,Non Khun
+33,ศรีสะเกษ,Si Sa Ket,14,ศรีรัตนะ,Si Rattana
+33,ศรีสะเกษ,Si Sa Ket,15,น้ำเกลี้ยง,Nam Kliang
+33,ศรีสะเกษ,Si Sa Ket,16,วังหิน,Wang Hin
+33,ศรีสะเกษ,Si Sa Ket,17,ภูสิงห์,Phu Sing
+33,ศรีสะเกษ,Si Sa Ket,18,เมืองจันทร์,Mueang Chan
+33,ศรีสะเกษ,Si Sa Ket,19,เบญจลักษ์,Benchalak
+33,ศรีสะเกษ,Si Sa Ket,20,พยุห์,Phayu
+33,ศรีสะเกษ,Si Sa Ket,21,โพธิ์ศรีสุวรรณ,Pho Si Suwan
+33,ศรีสะเกษ,Si Sa Ket,22,ศิลาลาด,Sila Lat
+34,อุบลราชธานี,Ubon Ratchathani,01,เมืองอุบลราชธานี,Mueang Ubon Ratchathani
+34,อุบลราชธานี,Ubon Ratchathani,02,ศรีเมืองใหม่,Si Mueang Mai
+34,อุบลราชธานี,Ubon Ratchathani,03,โขงเจียม,Khong Chiam
+34,อุบลราชธานี,Ubon Ratchathani,04,เขื่องใน,Khueang Nai
+34,อุบลราชธานี,Ubon Ratchathani,05,เขมราฐ,Khemarat
+34,อุบลราชธานี,Ubon Ratchathani,07,เดชอุดม,Det Udom
+34,อุบลราชธานี,Ubon Ratchathani,08,นาจะหลวย,Na Chaluai
+34,อุบลราชธานี,Ubon Ratchathani,09,น้ำยืน,Nam Yuen
+34,อุบลราชธานี,Ubon Ratchathani,10,บุณฑริก,Buntharik
+34,อุบลราชธานี,Ubon Ratchathani,11,ตระการพืชผล,Trakan Phuet Phon
+34,อุบลราชธานี,Ubon Ratchathani,12,กุดข้าวปุ้น,Kut Khaopun
+34,อุบลราชธานี,Ubon Ratchathani,14,ม่วงสามสิบ,Muang Sam Sip
+34,อุบลราชธานี,Ubon Ratchathani,15,วารินชำราบ,Warin Chamrap
+34,อุบลราชธานี,Ubon Ratchathani,19,พิบูลมังสาหาร,Phibun Mangsahan
+34,อุบลราชธานี,Ubon Ratchathani,20,ตาลสุม,Tan Sum
+34,อุบลราชธานี,Ubon Ratchathani,21,โพธิ์ไทร,Pho Sai
+34,อุบลราชธานี,Ubon Ratchathani,22,สำโรง,Samrong
+34,อุบลราชธานี,Ubon Ratchathani,24,ดอนมดแดง,Don Mot Daeng
+34,อุบลราชธานี,Ubon Ratchathani,25,สิรินธร,Sirindhorn
+34,อุบลราชธานี,Ubon Ratchathani,26,ทุ่งศรีอุดม,Thung Si Udom
+34,อุบลราชธานี,Ubon Ratchathani,29,นาเยีย,Na Yia
+34,อุบลราชธานี,Ubon Ratchathani,30,นาตาล,Na Tan
+34,อุบลราชธานี,Ubon Ratchathani,31,เหล่าเสือโก้ก,Lao Suea Kok
+34,อุบลราชธานี,Ubon Ratchathani,32,สว่างวีระวงศ์,Sawang Wirawong
+34,อุบลราชธานี,Ubon Ratchathani,33,น้ำขุ่น,Nam Khun
+35,ยโสธร,Yasothon,01,เมืองยโสธร,Mueang Yasothon
+35,ยโสธร,Yasothon,02,ทรายมูล,Sai Mun
+35,ยโสธร,Yasothon,03,กุดชุม,Kut Chum
+35,ยโสธร,Yasothon,04,คำเขื่อนแก้ว,Kham Khuean Kaeo
+35,ยโสธร,Yasothon,05,ป่าติ้ว,Pa Tio
+35,ยโสธร,Yasothon,06,มหาชนะชัย,Maha Chana Chai
+35,ยโสธร,Yasothon,07,ค้อวัง,Kho Wang
+35,ยโสธร,Yasothon,08,เลิงนกทา,Loeng Nok Tha
+35,ยโสธร,Yasothon,09,ไทยเจริญ,Thai Charoen
+36,ชัยภูมิ,Chaiyaphum,01,เมืองชัยภูมิ,Mueang Chaiyaphum
+36,ชัยภูมิ,Chaiyaphum,02,บ้านเขว้า,Ban Khwao
+36,ชัยภูมิ,Chaiyaphum,03,คอนสวรรค์,Khon Sawan
+36,ชัยภูมิ,Chaiyaphum,04,เกษตรสมบูรณ์,Kaset Sombun
+36,ชัยภูมิ,Chaiyaphum,05,หนองบัวแดง,Nong Bua Daeng
+36,ชัยภูมิ,Chaiyaphum,06,จัตุรัส,Chatturat
+36,ชัยภูมิ,Chaiyaphum,07,บำเหน็จณรงค์,Bamnet Narong
+36,ชัยภูมิ,Chaiyaphum,08,หนองบัวระเหว,Nong Bua Rawe
+36,ชัยภูมิ,Chaiyaphum,09,เทพสถิต,Thep Sathit
+36,ชัยภูมิ,Chaiyaphum,10,ภูเขียว,Phu Khiao
+36,ชัยภูมิ,Chaiyaphum,11,บ้านแท่น,Ban Thaen
+36,ชัยภูมิ,Chaiyaphum,12,แก้งคร้อ,Kaeng Khro
+36,ชัยภูมิ,Chaiyaphum,13,คอนสาร,Khon San
+36,ชัยภูมิ,Chaiyaphum,14,ภักดีชุมพล,Phakdi Chumphon
+36,ชัยภูมิ,Chaiyaphum,15,เนินสง่า,Noen Sa-nga
+36,ชัยภูมิ,Chaiyaphum,16,ซับใหญ่,Sap Yai
+37,อำนาจเจริญ,Amnat Charoen,01,เมืองอำนาจเจริญ,Mueang Amnat Charoen
+37,อำนาจเจริญ,Amnat Charoen,02,ชานุมาน,Chanuman
+37,อำนาจเจริญ,Amnat Charoen,03,ปทุมราชวงศา,Pathum Ratchawongsa
+37,อำนาจเจริญ,Amnat Charoen,04,พนา,Phana
+37,อำนาจเจริญ,Amnat Charoen,05,เสนางคนิคม,Senangkhanikhom
+37,อำนาจเจริญ,Amnat Charoen,06,หัวตะพาน,Hua Taphan
+37,อำนาจเจริญ,Amnat Charoen,07,ลืออำนาจ,Lue Amnat
+38,บึงกาฬ,Bueng Kan,01,เมืองบึงกาฬ,Mueang Bueng Kan
+38,บึงกาฬ,Bueng Kan,02,เซกา,Seka
+38,บึงกาฬ,Bueng Kan,03,โซ่พิสัย,So Phisai
+38,บึงกาฬ,Bueng Kan,04,พรเจริญ,Phon Charoen
+38,บึงกาฬ,Bueng Kan,05,ศรีวิไล,Si Wilai
+38,บึงกาฬ,Bueng Kan,06,บึงโขงหลง,Bueng Khong Long
+38,บึงกาฬ,Bueng Kan,07,ปากคาด,Pak Khat
+38,บึงกาฬ,Bueng Kan,08,บุ่งคล้า,Bung Khla
+39,หนองบัวลำภู,Nong Bua Lam Phu,01,เมืองหนองบัวลำภู,Mueang Nong Bua Lam Phu
+39,หนองบัวลำภู,Nong Bua Lam Phu,02,นากลาง,Na Klang
+39,หนองบัวลำภู,Nong Bua Lam Phu,03,โนนสัง,Non Sang
+39,หนองบัวลำภู,Nong Bua Lam Phu,04,ศรีบุญเรือง,Si Bun Rueang
+39,หนองบัวลำภู,Nong Bua Lam Phu,05,สุวรรณคูหา,Suwannakhuha
+39,หนองบัวลำภู,Nong Bua Lam Phu,06,นาวัง,Na Wang
+40,ขอนแก่น,Khon Kaen,01,เมืองขอนแก่น,Mueang Khon Kaen
+40,ขอนแก่น,Khon Kaen,02,บ้านฝาง,Ban Fang
+40,ขอนแก่น,Khon Kaen,03,พระยืน,Phra Yuen
+40,ขอนแก่น,Khon Kaen,04,หนองเรือ,Nong Ruea
+40,ขอนแก่น,Khon Kaen,05,ชุมแพ,Chum Phae
+40,ขอนแก่น,Khon Kaen,06,สีชมพู,Si Chomphu
+40,ขอนแก่น,Khon Kaen,07,น้ำพอง,Nam Phong
+40,ขอนแก่น,Khon Kaen,08,อุบลรัตน์,Ubolratana
+40,ขอนแก่น,Khon Kaen,09,กระนวน,Kranuan
+40,ขอนแก่น,Khon Kaen,10,บ้านไผ่,Ban Phai
+40,ขอนแก่น,Khon Kaen,11,เปือยน้อย,Pueai Noi
+40,ขอนแก่น,Khon Kaen,12,พล,Phon
+40,ขอนแก่น,Khon Kaen,13,แวงใหญ่,Waeng Yai
+40,ขอนแก่น,Khon Kaen,14,แวงน้อย,Waeng Noi
+40,ขอนแก่น,Khon Kaen,15,หนองสองห้อง,Nong Song Hong
+40,ขอนแก่น,Khon Kaen,16,ภูเวียง,Phu Wiang
+40,ขอนแก่น,Khon Kaen,17,มัญจาคีรี,Mancha Khiri
+40,ขอนแก่น,Khon Kaen,18,ชนบท,Chonnabot
+40,ขอนแก่น,Khon Kaen,19,เขาสวนกวาง,Khao Suan Kwang
+40,ขอนแก่น,Khon Kaen,20,ภูผาม่าน,Phu Pha Man
+40,ขอนแก่น,Khon Kaen,21,ซำสูง,Sam Sung
+40,ขอนแก่น,Khon Kaen,22,โคกโพธิ์ไชย,Khok Pho Chai
+40,ขอนแก่น,Khon Kaen,23,หนองนาคำ,Nong Na Kham
+40,ขอนแก่น,Khon Kaen,24,บ้านแฮด,Ban Haet
+40,ขอนแก่น,Khon Kaen,25,โนนศิลา,Non Sila
+40,ขอนแก่น,Khon Kaen,29,เวียงเก่า,Wiang Kao
+41,อุดรธานี,Udon Thani,01,เมืองอุดรธานี,Mueang Udon Thani
+41,อุดรธานี,Udon Thani,02,กุดจับ,Kut Chap
+41,อุดรธานี,Udon Thani,03,หนองวัวซอ,Nong Wua So
+41,อุดรธานี,Udon Thani,04,กุมภวาปี,Kumphawapi
+41,อุดรธานี,Udon Thani,05,โนนสะอาด,Non Sa-at
+41,อุดรธานี,Udon Thani,06,หนองหาน,Nong Han
+41,อุดรธานี,Udon Thani,07,ทุ่งฝน,Thung Fon
+41,อุดรธานี,Udon Thani,08,ไชยวาน,Chai Wan
+41,อุดรธานี,Udon Thani,09,ศรีธาตุ,Si That
+41,อุดรธานี,Udon Thani,10,วังสามหมอ,Wang Sam Mo
+41,อุดรธานี,Udon Thani,11,บ้านดุง,Ban Dung
+41,อุดรธานี,Udon Thani,17,บ้านผือ,Ban Phue
+41,อุดรธานี,Udon Thani,18,น้ำโสม,Nam Som
+41,อุดรธานี,Udon Thani,19,เพ็ญ,Phen
+41,อุดรธานี,Udon Thani,20,สร้างคอม,Sang Khom
+41,อุดรธานี,Udon Thani,21,หนองแสง,Nong Saeng
+41,อุดรธานี,Udon Thani,22,นายูง,Na Yung
+41,อุดรธานี,Udon Thani,23,พิบูลย์รักษ์,Phibun Rak
+41,อุดรธานี,Udon Thani,24,กู่แก้ว,Ku Kaeo
+41,อุดรธานี,Udon Thani,25,ประจักษ์ศิลปาคม,Prachaksinlapakhom
+42,เลย,Loei,01,เมืองเลย,Mueang Loei
+42,เลย,Loei,02,นาด้วง,Na Duang
+42,เลย,Loei,03,เชียงคาน,Chiang Khan
+42,เลย,Loei,04,ปากชม,Pak Chom
+42,เลย,Loei,05,ด่านซ้าย,Dan Sai
+42,เลย,Loei,06,นาแห้ว,Na Haeo
+42,เลย,Loei,07,ภูเรือ,Phu Ruea
+42,เลย,Loei,08,ท่าลี่,Tha Li
+42,เลย,Loei,09,วังสะพุง,Wang Saphung
+42,เลย,Loei,10,ภูกระดึง,Phu Kradueng
+42,เลย,Loei,11,ภูหลวง,Phu Luang
+42,เลย,Loei,12,ผาขาว,Pha Khao
+42,เลย,Loei,13,เอราวัณ,Erawan
+42,เลย,Loei,14,หนองหิน,Nong Hin
+43,หนองคาย,Nong Khai,01,เมืองหนองคาย,Mueang Nong Khai
+43,หนองคาย,Nong Khai,02,ท่าบ่อ,Tha Bo
+43,หนองคาย,Nong Khai,05,โพนพิสัย,Phon Phisai
+43,หนองคาย,Nong Khai,07,ศรีเชียงใหม่,Si Chiang Mai
+43,หนองคาย,Nong Khai,08,สังคม,Sangkhom
+43,หนองคาย,Nong Khai,14,สระใคร,Sakhrai
+43,หนองคาย,Nong Khai,15,เฝ้าไร่,Fao Rai
+43,หนองคาย,Nong Khai,16,รัตนวาปี,Rattanawapi
+43,หนองคาย,Nong Khai,17,โพธิ์ตาก,Pho Tak
+44,มหาสารคาม,Maha Sarakham,01,เมืองมหาสารคาม,Mueang Maha Sarakham
+44,มหาสารคาม,Maha Sarakham,02,แกดำ,Kae Dam
+44,มหาสารคาม,Maha Sarakham,03,โกสุมพิสัย,Kosum Phisai
+44,มหาสารคาม,Maha Sarakham,04,กันทรวิชัย,Kantharawichai
+44,มหาสารคาม,Maha Sarakham,05,เชียงยืน,Chiang Yuen
+44,มหาสารคาม,Maha Sarakham,06,บรบือ,Borabue
+44,มหาสารคาม,Maha Sarakham,07,นาเชือก,Na Chueak
+44,มหาสารคาม,Maha Sarakham,08,พยัคฆภูมิพิสัย,Phayakkhaphum Phisai
+44,มหาสารคาม,Maha Sarakham,09,วาปีปทุม,Wapi Pathum
+44,มหาสารคาม,Maha Sarakham,10,นาดูน,Na Dun
+44,มหาสารคาม,Maha Sarakham,11,ยางสีสุราช,Yang Sisurat
+44,มหาสารคาม,Maha Sarakham,12,กุดรัง,Kut Rang
+44,มหาสารคาม,Maha Sarakham,13,ชื่นชม,Chuen Chom
+45,ร้อยเอ็ด,Roi Et,01,เมืองร้อยเอ็ด,Mueang Roi Et
+45,ร้อยเอ็ด,Roi Et,02,เกษตรวิสัย,Kaset Wisai
+45,ร้อยเอ็ด,Roi Et,03,ปทุมรัตต์,Pathum Rat
+45,ร้อยเอ็ด,Roi Et,04,จตุรพักตรพิมาน,Chaturaphak Phiman
+45,ร้อยเอ็ด,Roi Et,05,ธวัชบุรี,Thawat Buri
+45,ร้อยเอ็ด,Roi Et,06,พนมไพร,Phanom Phrai
+45,ร้อยเอ็ด,Roi Et,07,โพนทอง,Phon Thong
+45,ร้อยเอ็ด,Roi Et,08,โพธิ์ชัย,Pho Chai
+45,ร้อยเอ็ด,Roi Et,09,หนองพอก,Nong Phok
+45,ร้อยเอ็ด,Roi Et,10,เสลภูมิ,Selaphum
+45,ร้อยเอ็ด,Roi Et,11,สุวรรณภูมิ,Suwannaphum
+45,ร้อยเอ็ด,Roi Et,12,เมืองสรวง,Mueang Suang
+45,ร้อยเอ็ด,Roi Et,13,โพนทราย,Phon Sai
+45,ร้อยเอ็ด,Roi Et,14,อาจสามารถ,At Samat
+45,ร้อยเอ็ด,Roi Et,15,เมยวดี,Moei Wadi
+45,ร้อยเอ็ด,Roi Et,16,ศรีสมเด็จ,Si Somdet
+45,ร้อยเอ็ด,Roi Et,17,จังหาร,Changhan
+45,ร้อยเอ็ด,Roi Et,18,เชียงขวัญ,Chiang Khwan
+45,ร้อยเอ็ด,Roi Et,19,หนองฮี,Nong Hi
+45,ร้อยเอ็ด,Roi Et,20,ทุ่งเขาหลวง,Thung Khao Luang
+46,กาฬสินธุ์,Kalasin,01,เมืองกาฬสินธุ์,Mueang Kalasin
+46,กาฬสินธุ์,Kalasin,02,นามน,Na Mon
+46,กาฬสินธุ์,Kalasin,03,กมลาไสย,Kamalasai
+46,กาฬสินธุ์,Kalasin,04,ร่องคำ,Rong Kham
+46,กาฬสินธุ์,Kalasin,05,กุฉินารายณ์,Kuchinarai
+46,กาฬสินธุ์,Kalasin,06,เขาวง,Khao Wong
+46,กาฬสินธุ์,Kalasin,07,ยางตลาด,Yang Talat
+46,กาฬสินธุ์,Kalasin,08,ห้วยเม็ก,Huai Mek
+46,กาฬสินธุ์,Kalasin,09,สหัสขันธ์,Sahatsakhan
+46,กาฬสินธุ์,Kalasin,10,คำม่วง,Kham Muang
+46,กาฬสินธุ์,Kalasin,11,ท่าคันโท,Tha Khantho
+46,กาฬสินธุ์,Kalasin,12,หนองกุงศรี,Nong Kung Si
+46,กาฬสินธุ์,Kalasin,13,สมเด็จ,Somdet
+46,กาฬสินธุ์,Kalasin,14,ห้วยผึ้ง,Huai Phueng
+46,กาฬสินธุ์,Kalasin,15,สามชัย,Sam Chai
+46,กาฬสินธุ์,Kalasin,16,นาคู,Na Khu
+46,กาฬสินธุ์,Kalasin,17,ดอนจาน,Don Chan
+46,กาฬสินธุ์,Kalasin,18,ฆ้องชัย,Khong Chai
+47,สกลนคร,Sakon Nakhon,01,เมืองสกลนคร,Mueang Sakon Nakhon
+47,สกลนคร,Sakon Nakhon,02,กุสุมาลย์,Kusuman
+47,สกลนคร,Sakon Nakhon,03,กุดบาก,Kut Bak
+47,สกลนคร,Sakon Nakhon,04,พรรณานิคม,Phanna Nikhom
+47,สกลนคร,Sakon Nakhon,05,พังโคน,Phang Khon
+47,สกลนคร,Sakon Nakhon,06,วาริชภูมิ,Waritchaphum
+47,สกลนคร,Sakon Nakhon,07,นิคมน้ำอูน,Nikhom Nam Un
+47,สกลนคร,Sakon Nakhon,08,วานรนิวาส,Wanon Niwat
+47,สกลนคร,Sakon Nakhon,09,คำตากล้า,Kham Ta Kla
+47,สกลนคร,Sakon Nakhon,10,บ้านม่วง,Ban Muang
+47,สกลนคร,Sakon Nakhon,11,อากาศอำนวย,Akat Amnuai
+47,สกลนคร,Sakon Nakhon,12,สว่างแดนดิน,Sawang Daen Din
+47,สกลนคร,Sakon Nakhon,13,ส่องดาว,Song Dao
+47,สกลนคร,Sakon Nakhon,14,เต่างอย,Tao Ngoi
+47,สกลนคร,Sakon Nakhon,15,โคกศรีสุพรรณ,Khok Si Suphan
+47,สกลนคร,Sakon Nakhon,16,เจริญศิลป์,Charoen Sin
+47,สกลนคร,Sakon Nakhon,17,โพนนาแก้ว,Phon Na Kaeo
+47,สกลนคร,Sakon Nakhon,18,ภูพาน,Phu Phan
+48,นครพนม,Nakhon Phanom,01,เมืองนครพนม,Mueang Nakhon Phanom
+48,นครพนม,Nakhon Phanom,02,ปลาปาก,Pla Pak
+48,นครพนม,Nakhon Phanom,03,ท่าอุเทน,Tha Uthen
+48,นครพนม,Nakhon Phanom,04,บ้านแพง,Ban Phaeng
+48,นครพนม,Nakhon Phanom,05,ธาตุพนม,That Phanom
+48,นครพนม,Nakhon Phanom,06,เรณูนคร,Renu Nakhon
+48,นครพนม,Nakhon Phanom,07,นาแก,Na Kae
+48,นครพนม,Nakhon Phanom,08,ศรีสงคราม,Si Songkhram
+48,นครพนม,Nakhon Phanom,09,นาหว้า,Na Wa
+48,นครพนม,Nakhon Phanom,10,โพนสวรรค์,Phon Sawan
+48,นครพนม,Nakhon Phanom,11,นาทม,Na Thom
+48,นครพนม,Nakhon Phanom,12,วังยาง,Wang Yang
+49,มุกดาหาร,Mukdahan,01,เมืองมุกดาหาร,Mueang Mukdahan
+49,มุกดาหาร,Mukdahan,02,นิคมคำสร้อย,Nikhom Kham Soi
+49,มุกดาหาร,Mukdahan,03,ดอนตาล,Don Tan
+49,มุกดาหาร,Mukdahan,04,ดงหลวง,Dong Luang
+49,มุกดาหาร,Mukdahan,05,คำชะอี,Khamcha-i
+49,มุกดาหาร,Mukdahan,06,หว้านใหญ่,Wan Yai
+49,มุกดาหาร,Mukdahan,07,หนองสูง,Nong Sung
+50,เชียงใหม่,Chiang Mai,01,เมืองเชียงใหม่,Mueang Chiang Mai
+50,เชียงใหม่,Chiang Mai,02,จอมทอง,Chom Thong
+50,เชียงใหม่,Chiang Mai,03,แม่แจ่ม,Mae Chaem
+50,เชียงใหม่,Chiang Mai,04,เชียงดาว,Chiang Dao
+50,เชียงใหม่,Chiang Mai,05,ดอยสะเก็ด,Doi Saket
+50,เชียงใหม่,Chiang Mai,06,แม่แตง,Mae Taeng
+50,เชียงใหม่,Chiang Mai,07,แม่ริม,Mae Rim
+50,เชียงใหม่,Chiang Mai,08,สะเมิง,Samoeng
+50,เชียงใหม่,Chiang Mai,09,ฝาง,Fang
+50,เชียงใหม่,Chiang Mai,10,แม่อาย,Mae Ai
+50,เชียงใหม่,Chiang Mai,11,พร้าว,Phrao
+50,เชียงใหม่,Chiang Mai,12,สันป่าตอง,San Pa Tong
+50,เชียงใหม่,Chiang Mai,13,สันกำแพง,San Kamphaeng
+50,เชียงใหม่,Chiang Mai,14,สันทราย,San Sai
+50,เชียงใหม่,Chiang Mai,15,หางดง,Hang Dong
+50,เชียงใหม่,Chiang Mai,16,ฮอด,Hot
+50,เชียงใหม่,Chiang Mai,17,ดอยเต่า,Doi Tao
+50,เชียงใหม่,Chiang Mai,18,อมก๋อย,Omkoi
+50,เชียงใหม่,Chiang Mai,19,สารภี,Saraphi
+50,เชียงใหม่,Chiang Mai,20,เวียงแหง,Wiang Haeng
+50,เชียงใหม่,Chiang Mai,21,ไชยปราการ,Chai Prakan
+50,เชียงใหม่,Chiang Mai,22,แม่วาง,Mae Wang
+50,เชียงใหม่,Chiang Mai,23,แม่ออน,Mae On
+50,เชียงใหม่,Chiang Mai,24,ดอยหล่อ,Doi Lo
+50,เชียงใหม่,Chiang Mai,25,กัลยาณิวัฒนา,Galyani Vadhana
+51,ลำพูน,Lamphun,01,เมืองลำพูน,Mueang Lamphun
+51,ลำพูน,Lamphun,02,แม่ทา,Mae Tha
+51,ลำพูน,Lamphun,03,บ้านโฮ่ง,Ban Hong
+51,ลำพูน,Lamphun,04,ลี้,Li
+51,ลำพูน,Lamphun,05,ทุ่งหัวช้าง,Thung Hua Chang
+51,ลำพูน,Lamphun,06,ป่าซาง,Pa Sang
+51,ลำพูน,Lamphun,07,บ้านธิ,Ban Thi
+51,ลำพูน,Lamphun,08,เวียงหนองล่อง,Wiang Nong Long
+52,ลำปาง,Lampang,01,เมืองลำปาง,Mueang Lampang
+52,ลำปาง,Lampang,02,แม่เมาะ,Mae Mo
+52,ลำปาง,Lampang,03,เกาะคา,Ko Kha
+52,ลำปาง,Lampang,04,เสริมงาม,Soem Ngam
+52,ลำปาง,Lampang,05,งาว,Ngao
+52,ลำปาง,Lampang,06,แจ้ห่ม,Chae Hom
+52,ลำปาง,Lampang,07,วังเหนือ,Wang Nuea
+52,ลำปาง,Lampang,08,เถิน,Thoen
+52,ลำปาง,Lampang,09,แม่พริก,Mae Phrik
+52,ลำปาง,Lampang,10,แม่ทะ,Mae Tha
+52,ลำปาง,Lampang,11,สบปราบ,Sop Prap
+52,ลำปาง,Lampang,12,ห้างฉัตร,Hang Chat
+52,ลำปาง,Lampang,13,เมืองปาน,Mueang Pan
+53,อุตรดิตถ์,Uttaradit,01,เมืองอุตรดิตถ์,Mueang Uttaradit
+53,อุตรดิตถ์,Uttaradit,02,ตรอน,Tron
+53,อุตรดิตถ์,Uttaradit,03,ท่าปลา,Tha Pla
+53,อุตรดิตถ์,Uttaradit,04,น้ำปาด,Nam Pat
+53,อุตรดิตถ์,Uttaradit,05,ฟากท่า,Fak Tha
+53,อุตรดิตถ์,Uttaradit,06,บ้านโคก,Ban Khok
+53,อุตรดิตถ์,Uttaradit,07,พิชัย,Phichai
+53,อุตรดิตถ์,Uttaradit,08,ลับแล,Laplae
+53,อุตรดิตถ์,Uttaradit,09,ทองแสนขัน,Thong Saen Khan
+54,แพร่,Phrae,01,เมืองแพร่,Mueang Phrae
+54,แพร่,Phrae,02,ร้องกวาง,Rong Kwang
+54,แพร่,Phrae,03,ลอง,Long
+54,แพร่,Phrae,04,สูงเม่น,Sung Men
+54,แพร่,Phrae,05,เด่นชัย,Den Chai
+54,แพร่,Phrae,06,สอง,Song
+54,แพร่,Phrae,07,วังชิ้น,Wang Chin
+54,แพร่,Phrae,08,หนองม่วงไข่,Nong Muang Khai
+55,น่าน,Nan,01,เมืองน่าน,Mueang Nan
+55,น่าน,Nan,02,แม่จริม,Mae Charim
+55,น่าน,Nan,03,บ้านหลวง,Ban Luang
+55,น่าน,Nan,04,นาน้อย,Na Noi
+55,น่าน,Nan,05,ปัว,Pua
+55,น่าน,Nan,06,ท่าวังผา,Tha Wang Pha
+55,น่าน,Nan,07,เวียงสา,Wiang Sa
+55,น่าน,Nan,08,ทุ่งช้าง,Thung Chang
+55,น่าน,Nan,09,เชียงกลาง,Chiang Klang
+55,น่าน,Nan,10,นาหมื่น,Na Muen
+55,น่าน,Nan,11,สันติสุข,Santi Suk
+55,น่าน,Nan,12,บ่อเกลือ,Bo Kluea
+55,น่าน,Nan,13,สองแคว,Song Khwae
+55,น่าน,Nan,14,ภูเพียง,Phu Phiang
+55,น่าน,Nan,15,เฉลิมพระเกียรติ,Chaloem Phra Kiat
+56,พะเยา,Phayao,01,เมืองพะเยา,Mueang Phayao
+56,พะเยา,Phayao,02,จุน,Chun
+56,พะเยา,Phayao,03,เชียงคำ,Chiang Kham
+56,พะเยา,Phayao,04,เชียงม่วน,Chiang Muan
+56,พะเยา,Phayao,05,ดอกคำใต้,Dok Khamtai
+56,พะเยา,Phayao,06,ปง,Pong
+56,พะเยา,Phayao,07,แม่ใจ,Mae Chai
+56,พะเยา,Phayao,08,ภูซาง,Phu Sang
+56,พะเยา,Phayao,09,ภูกามยาว,Phu Kamyao
+57,เชียงราย,Chiang Rai,01,เมืองเชียงราย,Mueang Chiang Rai
+57,เชียงราย,Chiang Rai,02,เวียงชัย,Wiang Chai
+57,เชียงราย,Chiang Rai,03,เชียงของ,Chiang Khong
+57,เชียงราย,Chiang Rai,04,เทิง,Thoeng
+57,เชียงราย,Chiang Rai,05,พาน,Phan
+57,เชียงราย,Chiang Rai,06,ป่าแดด,Pa Daet
+57,เชียงราย,Chiang Rai,07,แม่จัน,Mae Chan
+57,เชียงราย,Chiang Rai,08,เชียงแสน,Chiang Saen
+57,เชียงราย,Chiang Rai,09,แม่สาย,Mae Sai
+57,เชียงราย,Chiang Rai,10,แม่สรวย,Mae Suai
+57,เชียงราย,Chiang Rai,11,เวียงป่าเป้า,Wiang Pa Pao
+57,เชียงราย,Chiang Rai,12,พญาเม็งราย,Phaya Mengrai
+57,เชียงราย,Chiang Rai,13,เวียงแก่น,Wiang Kaen
+57,เชียงราย,Chiang Rai,14,ขุนตาล,Khun Tan
+57,เชียงราย,Chiang Rai,15,แม่ฟ้าหลวง,Mae Fa Luang
+57,เชียงราย,Chiang Rai,16,แม่ลาว,Mae Lao
+57,เชียงราย,Chiang Rai,17,เวียงเชียงรุ้ง,Wiang Chiang Rung
+57,เชียงราย,Chiang Rai,18,ดอยหลวง,Doi Luang
+58,แม่ฮ่องสอน,Mae Hong Son,01,เมืองแม่ฮ่องสอน,Mueang Mae Hong Son
+58,แม่ฮ่องสอน,Mae Hong Son,02,ขุนยวม,Khun Yuam
+58,แม่ฮ่องสอน,Mae Hong Son,03,ปาย,Pai
+58,แม่ฮ่องสอน,Mae Hong Son,04,แม่สะเรียง,Mae Sariang
+58,แม่ฮ่องสอน,Mae Hong Son,05,แม่ลาน้อย,Mae La Noi
+58,แม่ฮ่องสอน,Mae Hong Son,06,สบเมย,Sop Moei
+58,แม่ฮ่องสอน,Mae Hong Son,07,ปางมะผ้า,Pang Mapha
+60,นครสวรรค์,Nakhon Sawan,01,เมืองนครสวรรค์,Mueang Nakhon Sawan
+60,นครสวรรค์,Nakhon Sawan,02,โกรกพระ,Krok Phra
+60,นครสวรรค์,Nakhon Sawan,03,ชุมแสง,Chum Saeng
+60,นครสวรรค์,Nakhon Sawan,04,หนองบัว,Nong Bua
+60,นครสวรรค์,Nakhon Sawan,05,บรรพตพิสัย,Banphot Phisai
+60,นครสวรรค์,Nakhon Sawan,06,เก้าเลี้ยว,Kao Liao
+60,นครสวรรค์,Nakhon Sawan,07,ตาคลี,Takhli
+60,นครสวรรค์,Nakhon Sawan,08,ท่าตะโก,Takhli
+60,นครสวรรค์,Nakhon Sawan,09,ไพศาลี,Phaisali
+60,นครสวรรค์,Nakhon Sawan,10,พยุหะคีรี,Phayuha Khiri
+60,นครสวรรค์,Nakhon Sawan,11,ลาดยาว,Phayuha Khiri
+60,นครสวรรค์,Nakhon Sawan,12,ตากฟ้า,Tak Fa
+60,นครสวรรค์,Nakhon Sawan,13,แม่วงก์,Mae Wong
+60,นครสวรรค์,Nakhon Sawan,14,แม่เปิน,Mae Poen
+60,นครสวรรค์,Nakhon Sawan,15,ชุมตาบง,Chum Ta Bong
+61,อุทัยธานี,Uthai Thani,01,เมืองอุทัยธานี,Mueang Uthai Thani
+61,อุทัยธานี,Uthai Thani,02,ทัพทัน,Thap Than
+61,อุทัยธานี,Uthai Thani,03,สว่างอารมณ์,Sawang Arom
+61,อุทัยธานี,Uthai Thani,04,หนองฉาง,Nong Chang
+61,อุทัยธานี,Uthai Thani,05,หนองขาหย่าง,Nong Khayang
+61,อุทัยธานี,Uthai Thani,06,บ้านไร่,Ban Rai
+61,อุทัยธานี,Uthai Thani,07,ลานสัก,Lan Sak
+61,อุทัยธานี,Uthai Thani,08,ห้วยคต,Huai Khot
+62,กำแพงเพชร,Kamphaeng Phet,01,เมืองกำแพงเพชร,Mueang Kamphaeng Phet
+62,กำแพงเพชร,Kamphaeng Phet,02,ไทรงาม,Sai Ngam
+62,กำแพงเพชร,Kamphaeng Phet,03,คลองลาน,Khlong Lan
+62,กำแพงเพชร,Kamphaeng Phet,04,ขาณุวรลักษบุรี,Khanu Woralaksaburi
+62,กำแพงเพชร,Kamphaeng Phet,05,คลองขลุง,Khlong Khlung
+62,กำแพงเพชร,Kamphaeng Phet,06,พรานกระต่าย,Phran Kratai
+62,กำแพงเพชร,Kamphaeng Phet,07,ลานกระบือ,Lan Krabue
+62,กำแพงเพชร,Kamphaeng Phet,08,ทรายทองวัฒนา,Sai Thong Watthana
+62,กำแพงเพชร,Kamphaeng Phet,09,ปางศิลาทอง,Pang Sila Thong
+62,กำแพงเพชร,Kamphaeng Phet,10,บึงสามัคคี,Bueng Samakkhi
+62,กำแพงเพชร,Kamphaeng Phet,11,โกสัมพีนคร,Kosamphi Nakhon
+63,ตาก,Tak,01,เมืองตาก,Mueang Tak
+63,ตาก,Tak,02,บ้านตาก,Ban Tak
+63,ตาก,Tak,03,สามเงา,Sam Ngao
+63,ตาก,Tak,04,แม่ระมาด,Mae Ramat
+63,ตาก,Tak,05,ท่าสองยาง,Tha Song Yang
+63,ตาก,Tak,06,แม่สอด,Mae Sot
+63,ตาก,Tak,07,พบพระ,Phop Phra
+63,ตาก,Tak,08,อุ้มผาง,Umphang
+63,ตาก,Tak,09,วังเจ้า,Wang Chao
+64,สุโขทัย,Sukhothai,01,เมืองสุโขทัย,Mueang Sukhothai
+64,สุโขทัย,Sukhothai,02,บ้านด่านลานหอย,Ban Dan Lan Hoi
+64,สุโขทัย,Sukhothai,03,คีรีมาศ,Khiri Mat
+64,สุโขทัย,Sukhothai,04,กงไกรลาศ,Kong Krailat
+64,สุโขทัย,Sukhothai,05,ศรีสัชนาลัย,Si Satchanalai
+64,สุโขทัย,Sukhothai,06,ศรีสำโรง,Si Samrong
+64,สุโขทัย,Sukhothai,07,สวรรคโลก,Sawankhalok
+64,สุโขทัย,Sukhothai,08,ศรีนคร,Si Nakhon
+64,สุโขทัย,Sukhothai,09,ทุ่งเสลี่ยม,Thung Saliam
+65,พิษณุโลก,Phitsanulok,01,เมืองพิษณุโลก,Mueang Phitsanulok
+65,พิษณุโลก,Phitsanulok,02,นครไทย,Nakhon Thai
+65,พิษณุโลก,Phitsanulok,03,ชาติตระการ,Chat Trakan
+65,พิษณุโลก,Phitsanulok,04,บางระกำ,Bang Rakam
+65,พิษณุโลก,Phitsanulok,05,บางกระทุ่ม,Bang Krathum
+65,พิษณุโลก,Phitsanulok,06,พรหมพิราม,Phrom Phiram
+65,พิษณุโลก,Phitsanulok,07,วัดโบสถ์,Wat Bot
+65,พิษณุโลก,Phitsanulok,08,วังทอง,Wang Thong
+65,พิษณุโลก,Phitsanulok,09,เนินมะปราง,Noen Maprang
+66,พิจิตร,Phichit,01,เมืองพิจิตร,Mueang Phichit
+66,พิจิตร,Phichit,02,วังทรายพูน,Wang Sai Phun
+66,พิจิตร,Phichit,03,โพธิ์ประทับช้าง,Pho Prathap Chang
+66,พิจิตร,Phichit,04,ตะพานหิน,Taphan Hin
+66,พิจิตร,Phichit,05,บางมูลนาก,Bang Mun Nak
+66,พิจิตร,Phichit,06,โพทะเล,Pho Thale
+66,พิจิตร,Phichit,07,สามง่าม,Sam Ngam
+66,พิจิตร,Phichit,08,ทับคล้อ,Tap Khlo
+66,พิจิตร,Phichit,09,สากเหล็ก,Sak Lek
+66,พิจิตร,Phichit,10,บึงนาราง,Bueng Na Rang
+66,พิจิตร,Phichit,11,ดงเจริญ,Dong Charoen
+66,พิจิตร,Phichit,12,วชิรบารมี,Wachirabarami
+67,เพชรบูรณ์,Phetchabun,01,เมืองเพชรบูรณ์,Mueang Phetchabun
+67,เพชรบูรณ์,Phetchabun,02,ชนแดน,Chon Daen
+67,เพชรบูรณ์,Phetchabun,03,หล่มสัก,Lom Sak
+67,เพชรบูรณ์,Phetchabun,04,หล่มเก่า,Lom Kao
+67,เพชรบูรณ์,Phetchabun,05,วิเชียรบุรี,Wichian Buri
+67,เพชรบูรณ์,Phetchabun,06,ศรีเทพ,Si Thep
+67,เพชรบูรณ์,Phetchabun,07,หนองไผ่,Nong Phai
+67,เพชรบูรณ์,Phetchabun,08,บึงสามพัน,Bueng Sam Phan
+67,เพชรบูรณ์,Phetchabun,09,น้ำหนาว,Nam Nao
+67,เพชรบูรณ์,Phetchabun,10,วังโป่ง,Wang Pong
+67,เพชรบูรณ์,Phetchabun,11,เขาค้อ,Khao Kho
+70,ราชบุรี,Ratchaburi,01,เมืองราชบุรี,Mueang Ratchaburi
+70,ราชบุรี,Ratchaburi,02,จอมบึง,Chom Bueng
+70,ราชบุรี,Ratchaburi,03,สวนผึ้ง,Suan Phueng
+70,ราชบุรี,Ratchaburi,04,ดำเนินสะดวก,Damnoen Saduak
+70,ราชบุรี,Ratchaburi,05,บ้านโป่ง,Ban Pong
+70,ราชบุรี,Ratchaburi,06,บางแพ,Bang Phae
+70,ราชบุรี,Ratchaburi,07,โพธาราม,Photharam
+70,ราชบุรี,Ratchaburi,08,ปากท่อ,Pak Tho
+70,ราชบุรี,Ratchaburi,09,วัดเพลง,Wat Phleng
+70,ราชบุรี,Ratchaburi,10,บ้านคา,Ban Kha
+70,ราชบุรี,Ratchaburi,74,ท้องถิ่นเทศบาลตำบลบ้านฆ้อง,Tet Saban Ban Kong
+71,กาญจนบุรี,Kanchanaburi,01,เมืองกาญจนบุรี,Mueang Kanchanaburi
+71,กาญจนบุรี,Kanchanaburi,02,ไทรโยค,Sai Yok
+71,กาญจนบุรี,Kanchanaburi,03,บ่อพลอย,Bo Phloi
+71,กาญจนบุรี,Kanchanaburi,04,ศรีสวัสดิ์,Si Sawat
+71,กาญจนบุรี,Kanchanaburi,05,ท่ามะกา,Tha Maka
+71,กาญจนบุรี,Kanchanaburi,06,ท่าม่วง,Tha Muang
+71,กาญจนบุรี,Kanchanaburi,07,ทองผาภูมิ,Pha Phum
+71,กาญจนบุรี,Kanchanaburi,08,สังขละบุรี,Sangkhla Buri
+71,กาญจนบุรี,Kanchanaburi,09,พนมทวน,Phanom Thuan
+71,กาญจนบุรี,Kanchanaburi,10,เลาขวัญ,Lao Khwan
+71,กาญจนบุรี,Kanchanaburi,11,ด่านมะขามเตี้ย,Dan Makham Tia
+71,กาญจนบุรี,Kanchanaburi,12,หนองปรือ,Nong Prue
+71,กาญจนบุรี,Kanchanaburi,13,ห้วยกระเจา,Huai Krachao
+72,สุพรรณบุรี,Suphan Buri,01,เมืองสุพรรณบุรี,Mueang Suphan Buri
+72,สุพรรณบุรี,Suphan Buri,02,เดิมบางนางบวช,Doem Bang Nang Buat
+72,สุพรรณบุรี,Suphan Buri,03,ด่านช้าง,Dan Chang
+72,สุพรรณบุรี,Suphan Buri,04,บางปลาม้า,Bang Pla Ma
+72,สุพรรณบุรี,Suphan Buri,05,ศรีประจันต์,Si Prachan
+72,สุพรรณบุรี,Suphan Buri,06,ดอนเจดีย์,Don Chedi
+72,สุพรรณบุรี,Suphan Buri,07,สองพี่น้อง,Song Phi Nong
+72,สุพรรณบุรี,Suphan Buri,08,สามชุก,Sam Chuk
+72,สุพรรณบุรี,Suphan Buri,09,อู่ทอง,U Thong
+72,สุพรรณบุรี,Suphan Buri,10,หนองหญ้าไซ,Nong Ya Sai
+73,นครปฐม,Nakhon Pathom,01,เมืองนครปฐม,Mueang Nakhon Pathom
+73,นครปฐม,Nakhon Pathom,02,กำแพงแสน,Kamphaeng Saen
+73,นครปฐม,Nakhon Pathom,03,นครชัยศรี,Nakhon Chai Si
+73,นครปฐม,Nakhon Pathom,04,ดอนตูม,Don Tum
+73,นครปฐม,Nakhon Pathom,05,บางเลน,Bang Len
+73,นครปฐม,Nakhon Pathom,06,สามพราน,Sam Phran
+73,นครปฐม,Nakhon Pathom,07,พุทธมณฑล,Phutthamonthon
+74,สมุทรสาคร,Samut Sakhon,01,เมืองสมุทรสาคร,Mueang Samut Sakhon
+74,สมุทรสาคร,Samut Sakhon,02,กระทุ่มแบน,Krathum Baen
+74,สมุทรสาคร,Samut Sakhon,03,บ้านแพ้ว,Ban Phaeo
+75,สมุทรสงคราม,Samut Songkhram,01,เมืองสมุทรสงคราม,Mueang Samut Songkhram
+75,สมุทรสงคราม,Samut Songkhram,02,บางคนที,Bang Khonthi
+75,สมุทรสงคราม,Samut Songkhram,03,อัมพวา,Amphawa
+76,เพชรบุรี,Phetchaburi,01,เมืองเพชรบุรี,Mueang Phetchaburi
+76,เพชรบุรี,Phetchaburi,02,เขาย้อย,Khao Yoi
+76,เพชรบุรี,Phetchaburi,03,หนองหญ้าปล้อง,Nong Ya Plong
+76,เพชรบุรี,Phetchaburi,04,ชะอำ,Cha-am
+76,เพชรบุรี,Phetchaburi,05,ท่ายาง,Tha Yang
+76,เพชรบุรี,Phetchaburi,06,บ้านลาด,Ban Lat
+76,เพชรบุรี,Phetchaburi,07,บ้านแหลม,Ban Laem
+76,เพชรบุรี,Phetchaburi,08,แก่งกระจาน,Kaeng Krachan
+77,ประจวบคีรีขันธ์,Prachuap Khiri Khan,01,เมืองประจวบคีรีขันธ์,Mueang Prachuap Khiri Khan
+77,ประจวบคีรีขันธ์,Prachuap Khiri Khan,02,กุยบุรี,Kui Buri
+77,ประจวบคีรีขันธ์,Prachuap Khiri Khan,03,ทับสะแก,Thap Sakae
+77,ประจวบคีรีขันธ์,Prachuap Khiri Khan,04,บางสะพาน,Bang Saphan
+77,ประจวบคีรีขันธ์,Prachuap Khiri Khan,05,บางสะพานน้อย,Bang Saphan Noi
+77,ประจวบคีรีขันธ์,Prachuap Khiri Khan,06,ปราณบุรี,Pran Buri
+77,ประจวบคีรีขันธ์,Prachuap Khiri Khan,07,หัวหิน,Hua Hin
+77,ประจวบคีรีขันธ์,Prachuap Khiri Khan,08,สามร้อยยอด,Sam Roi Yot
+80,นครศรีธรรมราช,Nakhon Si Thammarat,01,เมืองนครศรีธรรมราช,Mueang Nakhon Si Thammarat
+80,นครศรีธรรมราช,Nakhon Si Thammarat,02,พรหมคีรี,Phrom Khiri
+80,นครศรีธรรมราช,Nakhon Si Thammarat,03,ลานสกา,Lan Saka
+80,นครศรีธรรมราช,Nakhon Si Thammarat,04,ฉวาง,Chawang
+80,นครศรีธรรมราช,Nakhon Si Thammarat,05,พิปูน,Phipun
+80,นครศรีธรรมราช,Nakhon Si Thammarat,06,เชียรใหญ่,Chian Yai
+80,นครศรีธรรมราช,Nakhon Si Thammarat,07,ชะอวด,Cha-uat
+80,นครศรีธรรมราช,Nakhon Si Thammarat,08,ท่าศาลา,Tha Sala
+80,นครศรีธรรมราช,Nakhon Si Thammarat,09,ทุ่งสง,Thung Song
+80,นครศรีธรรมราช,Nakhon Si Thammarat,10,นาบอน,Na Bon
+80,นครศรีธรรมราช,Nakhon Si Thammarat,11,ทุ่งใหญ่,Thung Yai
+80,นครศรีธรรมราช,Nakhon Si Thammarat,12,ปากพนัง,Pak Phanang
+80,นครศรีธรรมราช,Nakhon Si Thammarat,13,ร่อนพิบูลย์,Ron Phibun
+80,นครศรีธรรมราช,Nakhon Si Thammarat,14,สิชล,Sichon
+80,นครศรีธรรมราช,Nakhon Si Thammarat,15,ขนอม,Khanom
+80,นครศรีธรรมราช,Nakhon Si Thammarat,16,หัวไทร,Hua Sai
+80,นครศรีธรรมราช,Nakhon Si Thammarat,17,บางขัน,Bang Khan
+80,นครศรีธรรมราช,Nakhon Si Thammarat,18,ถ้ำพรรณรา,Tham Phannara
+80,นครศรีธรรมราช,Nakhon Si Thammarat,19,จุฬาภรณ์,Chulabhorn
+80,นครศรีธรรมราช,Nakhon Si Thammarat,20,พระพรหม,Phra Phrom
+80,นครศรีธรรมราช,Nakhon Si Thammarat,21,นบพิตำ,Nopphitam
+80,นครศรีธรรมราช,Nakhon Si Thammarat,22,ช้างกลาง,Chang Klang
+80,นครศรีธรรมราช,Nakhon Si Thammarat,23,เฉลิมพระเกียรติ,Chaloem Phra Kiat
+81,กระบี่,Krabi,01,เมืองกระบี่,Mueang Krabi
+81,กระบี่,Krabi,02,เขาพนม,Khao Phanom
+81,กระบี่,Krabi,03,เกาะลันตา,Ko Lanta
+81,กระบี่,Krabi,04,คลองท่อม,Khlong Thom
+81,กระบี่,Krabi,05,อ่าวลึก,Ao Luek
+81,กระบี่,Krabi,06,ปลายพระยา,Plai Phraya
+81,กระบี่,Krabi,07,ลำทับ,Lam Thap
+81,กระบี่,Krabi,08,เหนือคลอง,Nuea Khlong
+82,พังงา,Phangnga,01,เมืองพังงา,Mueang Phang-nga
+82,พังงา,Phangnga,02,เกาะยาว,Ko Yao
+82,พังงา,Phangnga,03,กะปง,Kapong
+82,พังงา,Phangnga,04,ตะกั่วทุ่ง,Takua Thung
+82,พังงา,Phangnga,05,ตะกั่วป่า,Takua Pa
+82,พังงา,Phangnga,06,คุระบุรี,Khura Buri
+82,พังงา,Phangnga,07,ทับปุด,Thap Put
+82,พังงา,Phangnga,08,ท้ายเหมือง,Thai Mueang
+83,ภูเก็ต,Phuket,01,เมืองภูเก็ต,Mueang Phuket
+83,ภูเก็ต,Phuket,02,กะทู้,Kathu
+83,ภูเก็ต,Phuket,03,ถลาง,Thalang
+84,สุราษฎร์ธานี,Surat Thani,01,เมืองสุราษฎร์ธานี,Mueang Surat Thani
+84,สุราษฎร์ธานี,Surat Thani,02,กาญจนดิษฐ์,Kanchanadit
+84,สุราษฎร์ธานี,Surat Thani,03,ดอนสัก,Don Sak
+84,สุราษฎร์ธานี,Surat Thani,04,เกาะสมุย,Ko Samui
+84,สุราษฎร์ธานี,Surat Thani,05,เกาะพะงัน,Ko Pha-ngan
+84,สุราษฎร์ธานี,Surat Thani,06,ไชยา,Chaiya
+84,สุราษฎร์ธานี,Surat Thani,07,ท่าชนะ,Tha Chana
+84,สุราษฎร์ธานี,Surat Thani,08,คีรีรัฐนิคม,Khiri Rat Nikhom
+84,สุราษฎร์ธานี,Surat Thani,09,บ้านตาขุน,Ban Ta Khun
+84,สุราษฎร์ธานี,Surat Thani,10,พนม,Phanom
+84,สุราษฎร์ธานี,Surat Thani,11,ท่าฉาง,Tha Chang
+84,สุราษฎร์ธานี,Surat Thani,12,บ้านนาสาร,Ban Na San
+84,สุราษฎร์ธานี,Surat Thani,13,บ้านนาเดิม,Ban Na Doem
+84,สุราษฎร์ธานี,Surat Thani,14,เคียนซา,Khian Sa
+84,สุราษฎร์ธานี,Surat Thani,15,เวียงสระ,Wiang Sa
+84,สุราษฎร์ธานี,Surat Thani,16,พระแสง,Phrasaeng
+84,สุราษฎร์ธานี,Surat Thani,17,พุนพิน,Phunphin
+84,สุราษฎร์ธานี,Surat Thani,18,ชัยบุรี,Chai Buri
+84,สุราษฎร์ธานี,Surat Thani,19,วิภาวดี,Vibhavadi
+85,ระนอง,Ranong,01,เมืองระนอง,Mueang Ranong
+85,ระนอง,Ranong,02,ละอุ่น,La-un
+85,ระนอง,Ranong,03,กะเปอร์,Kapoe
+85,ระนอง,Ranong,04,กระบุรี,Kra Buri
+85,ระนอง,Ranong,05,สุขสำราญ,Suk Samran
+86,ชุมพร,Chumphon,01,เมืองชุมพร,Mueang Chumphon
+86,ชุมพร,Chumphon,02,ท่าแซะ,Tha Sae
+86,ชุมพร,Chumphon,03,ปะทิว,Pathio
+86,ชุมพร,Chumphon,04,หลังสวน,Lang Suan
+86,ชุมพร,Chumphon,05,ละแม,Lamae
+86,ชุมพร,Chumphon,06,พะโต๊ะ,Phato
+86,ชุมพร,Chumphon,07,สวี,Sawi
+86,ชุมพร,Chumphon,08,ทุ่งตะโก,Thung Tako
+90,สงขลา,Songkhla,01,เมืองสงขลา,Mueang Songkhla
+90,สงขลา,Songkhla,02,สทิงพระ,Sathing Phra
+90,สงขลา,Songkhla,03,จะนะ,Chana
+90,สงขลา,Songkhla,04,นาทวี,Na Thawi
+90,สงขลา,Songkhla,05,เทพา,Thepha
+90,สงขลา,Songkhla,06,สะบ้าย้อย,Saba Yoi
+90,สงขลา,Songkhla,07,ระโนด,Ranot
+90,สงขลา,Songkhla,08,กระแสสินธุ์,Krasae Sin
+90,สงขลา,Songkhla,09,รัตภูมิ,Rattaphum
+90,สงขลา,Songkhla,10,สะเดา,Sadao
+90,สงขลา,Songkhla,11,หาดใหญ่,Hat Yai
+90,สงขลา,Songkhla,12,นาหม่อม,Na Mom
+90,สงขลา,Songkhla,13,ควนเนียง,Khuan Niang
+90,สงขลา,Songkhla,14,บางกล่ำ,Bang Klam
+90,สงขลา,Songkhla,15,สิงหนคร,Singhanakhon
+90,สงขลา,Songkhla,16,คลองหอยโข่ง,Khlong Hoi Khong
+90,สงขลา,Songkhla,77,ท้องถิ่นเทศบาลตำบลสำนักขาม,Sum Nung Kam
+91,สตูล,Satun,01,เมืองสตูล,Mueang Satun
+91,สตูล,Satun,02,ควนโดน,Khuan Don
+91,สตูล,Satun,03,ควนกาหลง,Khuan Kalong
+91,สตูล,Satun,04,ท่าแพ,Tha Phae
+91,สตูล,Satun,05,ละงู,La-ngu
+91,สตูล,Satun,06,ทุ่งหว้า,Thung Wa
+91,สตูล,Satun,07,มะนัง,Manang
+92,ตรัง,Trang,01,เมืองตรัง,Mueang Trang
+92,ตรัง,Trang,02,กันตัง,Kantang
+92,ตรัง,Trang,03,ย่านตาขาว,Yan Ta Khao
+92,ตรัง,Trang,04,ปะเหลียน,Palian
+92,ตรัง,Trang,05,สิเกา,Sikao
+92,ตรัง,Trang,06,ห้วยยอด,Huai Yot
+92,ตรัง,Trang,07,วังวิเศษ,Wang Wiset
+92,ตรัง,Trang,08,นาโยง,Na Yong
+92,ตรัง,Trang,09,รัษฎา,Ratsada
+92,ตรัง,Trang,10,หาดสำราญ,Hat Samran
+93,พัทลุง,Phatthalung,01,เมืองพัทลุง,Mueang Phatthalung
+93,พัทลุง,Phatthalung,02,กงหรา,Kong Ra
+93,พัทลุง,Phatthalung,03,เขาชัยสน,Khao Chaison
+93,พัทลุง,Phatthalung,04,ตะโหมด,Tamot
+93,พัทลุง,Phatthalung,05,ควนขนุน,Khuan Khanun
+93,พัทลุง,Phatthalung,06,ปากพะยูน,Pak Phayun
+93,พัทลุง,Phatthalung,07,ศรีบรรพต,Si Banphot
+93,พัทลุง,Phatthalung,08,ป่าบอน,Pa Bon
+93,พัทลุง,Phatthalung,09,บางแก้ว,Bang Kaeo
+93,พัทลุง,Phatthalung,10,ป่าพะยอม,Pa Phayom
+93,พัทลุง,Phatthalung,11,ศรีนครินทร์,Srinagarindra
+94,ปัตตานี,Pattani,01,เมืองปัตตานี,Mueang Pattani
+94,ปัตตานี,Pattani,02,โคกโพธิ์,Khok Pho
+94,ปัตตานี,Pattani,03,หนองจิก,Nong Chik
+94,ปัตตานี,Pattani,04,ปะนาเระ,Panare
+94,ปัตตานี,Pattani,05,มายอ,Mayo
+94,ปัตตานี,Pattani,06,ทุ่งยางแดง,Thung Yang Daeng
+94,ปัตตานี,Pattani,07,สายบุรี,Sai Buri
+94,ปัตตานี,Pattani,08,ไม้แก่น,Mai Kaen
+94,ปัตตานี,Pattani,09,ยะหริ่ง,Yaring
+94,ปัตตานี,Pattani,10,ยะรัง,Yarang
+94,ปัตตานี,Pattani,11,กะพ้อ,Kapho
+94,ปัตตานี,Pattani,12,แม่ลาน,Mae Lan
+95,ยะลา,Yala,01,เมืองยะลา,Mueang Yala
+95,ยะลา,Yala,02,เบตง,Betong
+95,ยะลา,Yala,03,บันนังสตา,Bannang Sata
+95,ยะลา,Yala,04,ธารโต,Than To
+95,ยะลา,Yala,05,ยะหา,Yaha
+95,ยะลา,Yala,06,รามัน,Raman
+95,ยะลา,Yala,07,กาบัง,Kabang
+95,ยะลา,Yala,08,กรงปินัง,Krong Pinang
+96,นราธิวาส,Narathiwat,01,เมืองนราธิวาส,Mueang Narathiwat
+96,นราธิวาส,Narathiwat,02,ตากใบ,Tak Bai
+96,นราธิวาส,Narathiwat,03,บาเจาะ,Bacho
+96,นราธิวาส,Narathiwat,04,ยี่งอ,Yi-ngo
+96,นราธิวาส,Narathiwat,05,ระแงะ,Ra-ngae
+96,นราธิวาส,Narathiwat,06,รือเสาะ,Rueso
+96,นราธิวาส,Narathiwat,07,ศรีสาคร,Si Sakhon
+96,นราธิวาส,Narathiwat,08,แว้ง,Waeng
+96,นราธิวาส,Narathiwat,09,สุคิริน,Sukhirin
+96,นราธิวาส,Narathiwat,10,สุไหงโก-ลก,Su-ngai Kolok
+96,นราธิวาส,Narathiwat,11,สุไหงปาดี,Su-ngai Padi
+96,นราธิวาส,Narathiwat,12,จะแนะ,Chanae
+96,นราธิวาส,Narathiwat,13,เจาะไอร้อง,Cho-airong

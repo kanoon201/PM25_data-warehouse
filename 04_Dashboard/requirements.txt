@@ -1,0 +1,17 @@
+# แพ็กเกจสำหรับรัน Dashboard เท่านั้น
+# (ETL ใช้คนละชุด ดูที่ 02_ETL/requirements.txt ซึ่งต้องใช้ awscli/boto3 เพิ่ม)
+#
+# ติดตั้ง:
+#   python -m venv .venv
+#   source .venv/bin/activate          # Windows: .venv\Scripts\activate
+#   pip install -r requirements.txt
+#   streamlit run app.py
+
+streamlit==1.61.1
+plotly==6.9.0
+duckdb==1.5.5
+pandas==3.0.5
+
+# ทางเลือก — ใช้วาดเส้นแนวโน้ม OLS ในกราฟ ⑤ ของแท็บ BQ3
+# ถ้าไม่ติดตั้ง Dashboard ยังเปิดได้ปกติ เพียงแต่กราฟนั้นจะไม่มีเส้นแนวโน้ม
+statsmodels==0.14.6

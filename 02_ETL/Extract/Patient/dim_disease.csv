@@ -1,0 +1,14 @@
+﻿disease_group_id,disease_sub_group_id,disease_name_en,disease_group_name_th,related_icd10_example,confidence,evidence_note
+1,1,Chronic Obstructive Pulmonary disease (COPD),กลุ่มโรคทางเดินหายใจ,,confirmed,ยืนยันด้วย numeric matching กับไฟล์ export กาฬสินธุ์ ปี 2567 (ตรงเป๊ะ)
+1,2,Asthma,กลุ่มโรคทางเดินหายใจ,,confirmed,ยืนยันด้วย numeric matching กับไฟล์ export กาฬสินธุ์ ปี 2567 (ตรงเป๊ะ)
+1,3,Pneumonia,กลุ่มโรคทางเดินหายใจ,,confirmed,ยืนยันด้วย numeric matching กับไฟล์ export กาฬสินธุ์ ปี 2567 (ตรงเป๊ะ)
+1,4,Influenza,กลุ่มโรคทางเดินหายใจ,,confirmed,ยืนยันด้วย numeric matching กับไฟล์ export กาฬสินธุ์ ปี 2567 (ตรงเป๊ะ)
+1,5,Acute pharyngitis,กลุ่มโรคทางเดินหายใจ,J029,confirmed,ยืนยันด้วย numeric matching + พบ diagcode=J029 ตรงกับ group1/sub5 ในตาราง s_pm25_age_sex
+1,6,Chronic rhinitis,กลุ่มโรคทางเดินหายใจ,,confirmed,ยืนยันด้วย numeric matching กับไฟล์ export กาฬสินธุ์ ปี 2567 (ตรงเป๊ะ)
+1,7,Bronchitis,กลุ่มโรคทางเดินหายใจ,,confirmed,ยืนยันด้วย numeric matching กับไฟล์ export กาฬสินธุ์ ปี 2567 (ตรงเป๊ะ)
+2,1,Acute ischemic heart disease,กลุ่มโรคหัวใจและหลอดเลือดสมอง,,confirmed,ยืนยันด้วย numeric matching กับไฟล์ export กาฬสินธุ์ ปี 2567 (ตรงเป๊ะ)
+2,2,Cerebrovascular disease (stroke),กลุ่มโรคหัวใจและหลอดเลือดสมอง,,confirmed,ยืนยันด้วย numeric matching กับไฟล์ export กาฬสินธุ์ ปี 2567 (ตรงเป๊ะ)
+3,0,กลุ่มโรคตาอักเสบ,กลุ่มโรคตา,H10,confirmed,ยืนยันด้วย numeric matching + พบ diagcode=H10 (conjunctivitis) ตรงกับ group3 ในตาราง s_pm25_age_sex
+4,0,กลุ่มโรคผิวหนังอักเสบ,กลุ่มโรคผิวหนัง,L23,confirmed,ยืนยันด้วย numeric matching + พบ diagcode=L23 (allergic contact dermatitis) ตรงกับ group4 ในตาราง s_pm25_age_sex
+5,0,Contact with and (suspected) exposure to air pollution (การสัมผัสกับมลพิษทางอากาศ),กลุ่มการสัมผัสมลพิษทางอากาศ,Z77,confirmed,ยืนยันด้วย numeric matching + พบ diagcode=Z77 ตรงกับ group5 ในตาราง s_pm25_age (จังหวัด กทม. ปี 2567 ผ่าน API โดยตรง เนื่องจากกาฬสินธุ์ไม่มีเคส group 5 เลย)
+6,0,Long-term effect,ผลกระทบระยะยาว,,confirmed,ยืนยันด้วย numeric matching กับไฟล์ export กาฬสินธุ์ ปี 2567 (ตรงเป๊ะ ยอดรวม 1565)
